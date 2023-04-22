@@ -260,6 +260,7 @@ hr {
         top: 6rem;
         font-weight: 600;
         color: hsl(236, 13%, 42%);
+        padding-bottom: 2rem;
     }
 
     #main {
