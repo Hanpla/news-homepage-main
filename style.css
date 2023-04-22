@@ -228,8 +228,8 @@ hr {
         position: relative;
         display: block;
         width: 12%;
-        top: -1.5rem;
-        left: 100%;
+        top: -1rem;
+        margin-left: auto;
     }
 
     #left {
@@ -245,7 +245,7 @@ hr {
         display: flex;
         flex-direction: column;
         width: 70%;
-        position: absolute;
+        position: fixed;
         top: 0;
         right: 0;
         background-color: white;
@@ -318,5 +318,4 @@ hr {
     .block p {
         font-size: 13px;
     }
-
 }
